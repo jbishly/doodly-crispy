@@ -2,7 +2,14 @@
 
 Find the sum of all the multiples of 3 or 5 below 1000. */
 
+
+
+
+/* sum all that are multiples */
+
 var sum = 0;
+
+/* loop through all the numbers until 1000 */
 
 for (i=0; i<1000; i++) { 
   
